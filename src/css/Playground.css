@@ -1,0 +1,30 @@
+
+.PlaygroundApp{
+	padding-top: 30px;
+}
+
+.Services{
+	padding: 20px;
+	margin-left: 20px;
+	box-shadow: 0px 0px 3px #ccc;
+}
+
+.SelectedService{
+	margin-top: 10px;
+	padding: 20px;
+	border-top: 1px dotted #ddd;
+}
+
+.ServiceName{
+	padding-bottom: 20px;
+}
+
+.SelectedSubServiceName{
+	padding-bottom: 10px;
+}
+
+.Output{
+	box-shadow: 0px 0px 3px #ccc;
+	min-height: 90vh;
+	margin-left: 20px;
+}

@@ -1,0 +1,54 @@
+
+.WinputWrap{
+	margin: 10px 0px;
+}
+
+.Winput{
+	font-size: 0.8em;
+	padding: 5px 10px;
+	height: 35px;
+	width: 100%;
+	border: 1px solid rgba(204, 204, 204, .3);
+}
+
+.Winput:hover{
+	border: 1px solid #ccc;
+}
+
+.Wbtn{
+	margin-top: 5px;
+	text-align: center;
+	cursor: pointer;
+	padding: 8px 0px;
+	background-color: #eb9e1a;
+	font-size: 0.8em;
+}
+
+.Wbtn:hover{
+	opacity: 0.8;
+}
+
+.wdropdown{
+
+}
+
+.wdropdown>button{
+
+}
+
+
+.Wlink{
+	font-size: 12px;
+	cursor: pointer;
+}
+
+.Wlink:hover{
+	text-decoration: underline;
+}
+
+.WErrorInput{
+	font-size: 11px;
+    padding: 3px 8px;
+    background-color: antiquewhite;
+	font-family: 'Lato', sans-serif;
+}

@@ -1,0 +1,34 @@
+
+.UserApp{
+	font-family: 'Mukta', sans-serif;
+}
+
+.UserAppPromo{
+	background-color: #eb9e1a;
+	color: black;
+	min-height: 100vh;
+}
+
+.UserAppSlogan{
+	font-size: 32px;
+}
+
+.WebketchHeading{
+	font-size: 48px;
+	margin-top: 240px;
+}
+
+.UserAppContainer{
+	margin-top: 180px;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+.UserAppHead{
+	font-size: 1.2em;
+	padding-bottom: 12px;
+	margin-bottom: 20px;
+}
+
+.UserAppLinks{
+	margin-top: 20px;
+}

@@ -1,0 +1,26 @@
+
+.back-mattblack{
+	background-color: #262533;
+	color: white;
+}
+
+.back-orange{
+	background-color: #eb9e1a;
+	color: black;
+}
+
+.hide{
+	display: none;
+}
+
+.show{
+	display: block;
+}
+
+.color-white{
+	color: white;
+}
+
+.color-black{
+	color: black;
+}

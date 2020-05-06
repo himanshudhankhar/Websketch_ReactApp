@@ -1,0 +1,12 @@
+
+.LeftMenuContainer{
+	position: absolute;
+	top: 46px;
+	z-index: 999999;
+	box-shadow: 2px 2px 2px #aaa;
+}
+
+.LeftMenuDiv{
+	height: 90vh;
+	padding-top: 20px;
+}

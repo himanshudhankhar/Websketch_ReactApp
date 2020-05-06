@@ -1,0 +1,19 @@
+
+.HeaderContainer{
+	min-height: 46px;
+	max-height: 46px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 99999;
+	box-shadow: 2px 2px 2px #ccc;
+	padding-top: 8px;
+}
+
+.HeaderMenu{
+	min-height: 30px;
+}
+
+.HeaderLogo{
+	font-size: 19px;
+}

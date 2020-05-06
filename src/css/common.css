@@ -1,0 +1,39 @@
+
+.floatLeft{
+	float: left;
+}
+
+.floatRight{
+	float: right;
+}
+
+.floatCenter{
+	margin: 0 auto;
+	float: none;
+}
+
+.zero-padd{
+	padding: 0px;
+}
+
+.clearBoth{
+	clear: both;
+}
+
+.actionCursor{
+	cursor: pointer;
+}
+
+.white-opaque-border{
+	border-right: 1px solid rgb(255, 255, 255);
+    border-right: 1px solid rgba(255, 255, 255, .5);
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+.white-opaque-border-left{
+	border-left: 1px solid rgb(255, 255, 255);
+    border-left: 1px solid rgba(255, 255, 255, .5);
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+}
